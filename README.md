@@ -10,7 +10,7 @@ This is my first local change to the repo!
 ##### Heading 5
 ###### Heading 6
 
-**Bold Text** or _Bold Text_
+**Bold Text** or __Bold Text__
 
 *Italics Text* or _Italics Text_
 
